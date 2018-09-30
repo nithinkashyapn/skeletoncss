@@ -2,5 +2,5 @@
 Few more fields added to Skeleton CSS
 
 Fields Added
-+ input type="date"
-+ input type="time"
++ `input type="date"`
++ `input type="time"`
